@@ -11,8 +11,12 @@ The quote is displayed in **red text** for emphasis.
 
 ## Usage:
 1. Clone or download this script to your machine.
-2. Make the script executable:  chmod +x task.sh
-3. Run the script: ./task.sh
+2. Make the script executable:
+   ```bash
+   chmod +x task.sh
+4. Run the script:
+   ```bash
+   ./task.sh
 
 
 ## Notes:
