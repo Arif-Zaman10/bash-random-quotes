@@ -11,8 +11,8 @@ The quote is displayed in **red text** for emphasis.
 
 ## Usage:
 1. Clone or download this script to your machine.
-2. Make the script executable:  chmod +x random_quote.sh
-3. Run the script: ./random_quote.sh
+2. Make the script executable:  chmod +x task.sh
+3. Run the script: ./task.sh
 
 
 ## Notes:
